@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Male
+  - Female
+  - Robot
+  - Alien
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 33252307
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Queue0
+    uniqueID: 1093065747
+    locked: 0
+  - name: Queue1
+    uniqueID: 1588935525
+    locked: 0
+  - name: Queue2
+    uniqueID: 2613093011
+    locked: 0
+  - name: Queue3
+    uniqueID: 1716158545
+    locked: 0
+  - name: Queue4
+    uniqueID: 1655421345
+    locked: 0
+  - name: Queue5
+    uniqueID: 3261184033
+    locked: 0
+  - name: Queue6
+    uniqueID: 3989923041
+    locked: 0
