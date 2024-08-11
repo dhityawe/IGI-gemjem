@@ -8,6 +8,7 @@ public class AnimationManager : MonoBehaviour
     public GameObject tutorialPanel;
     public GameObject tutorialPlayButton;
     public GameObject tutorialStamp;
+    public GameObject testObject;
 
     //* UI Ingame game object
     public GameObject uiPanel;
